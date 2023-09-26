@@ -1,0 +1,7 @@
+
+:root {
+    --shadowIbidShadowCard: 0 1px 8px 0 rgba(0,0,0,0.12);  
+    --shadowIbidShadowButton: inset 0 0 8px 0 rgba(0,0,0,0.16);  
+    --shadowIbidShadowBottomBar: 0 -12px 3px 0 rgb(0,0,0);  
+    --shadowIbidShadowTopBar: 0 12px 3px 0 rgb(0,0,0);  
+}

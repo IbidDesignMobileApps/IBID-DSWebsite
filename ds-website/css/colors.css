@@ -1,0 +1,100 @@
+
+:root {
+    /* FFFFFF */
+    --colorNeutral10: #ffffff;    
+    /* F5F5F5 */
+    --colorNeutral20: #f5f5f5;    
+    /* EDEDED */
+    --colorNeutral30: #ededed;    
+    /* E0E0E0 */
+    --colorNeutral40: #e0e0e0;    
+    /* C2C2C2 */
+    --colorNeutral50: #c2c2c2;    
+    /* 9E9E9E */
+    --colorNeutral60: #9e9e9e;    
+    /* 757575 */
+    --colorNeutral70: #757575;    
+    /* 616161 */
+    --colorNeutral80: #616161;    
+    --colorNeutral90: #404040;    
+    /* Title */
+    --colorNeutral100: #0a0a0a;    
+    --colorPrimaryMain: #a3cf62;    
+    --colorPrimarySurface: #edf5e0;    
+    --colorPrimaryBorder: #cce7a4;    
+    /* 6B8F36 */
+    --colorPrimaryHover: #6b8f36;    
+    /* A3CF62 */
+    --colorPrimaryFocus: #a3cf624d;    
+    /* 903F98 */
+    --colorSecondaryMain: #903f98;    
+    /* FEF0FF */
+    --colorSecondarySurface: #fef0ff;    
+    --colorSecondaryBoder: #f3cbf7;    
+    --colorSecondaryHover: #66296b;    
+    --colorSuccessMain: #43936c;    
+    --colorSuccessSurface: #f7f7f7;    
+    --colorSuccessBorder: #b8dbca;    
+    --colorSuccessHover: #367a59;    
+    --colorWarningMain: #cd7b2e;    
+    --colorWarningSurface: #fff9f2;    
+    --colorWarningBorder: #eeceb0;    
+    --colorDangerMain: #cb3a31;    
+    --colorDangerSurface: #fff4f2;    
+    --colorDangerBorder: #eeb4b0;    
+    --colorDangerHover: #bd251c;    
+    --colorInfoMain: #3267e3;    
+    --colorInfoSurface: #f0f3ff;    
+    --colorInfoBorder: #b1c5f6;    
+    --colorInfoHover: #114cd6;    
+    --colorInfoPressed: #11317d;    
+    --colorAccentYellow300: #fcc907;    
+    /* 6B8F36 */
+    --colorPrimaryPressed: #6b8f36;    
+    /* 501856 */
+    --colorSecondaryPressed: #501856;    
+    --colorSecondaryFocused: #903f984d;    
+    --colorSuccessPressed: #20573d;    
+    --colorWarningHover: #bf6919;    
+    --colorWarningPressed: #734011;    
+    --colorDangerPressed: #731912;    
+    --colorAccentYellow50: #fffae6;    
+    --colorAccentYellow100: #fff7da;    
+    --colorAccentYellow200: #feeeb2;    
+    --colorAccentYellow400: #e3b506;    
+    --colorAccentYellow500: #caa106;    
+    --colorAccentYellow600: #bd9705;    
+    --colorAccentYellow700: #977904;    
+    --colorAccentYellow800: #715a03;    
+    --colorAccentYellow900: #584602;    
+    --colorAccentOrange50: #feeee9;    
+    --colorAccentOrange100: #fde6de;    
+    --colorAccentOrange200: #fbcbba;    
+    --colorAccentOrange300: #f15622;    
+    --colorAccentOrange400: #d94d1f;    
+    --colorAccentOrange500: #c1451b;    
+    --colorAccentOrange600: #b5411a;    
+    --colorAccentOrange700: #913414;    
+    --colorAccentOrange800: #6c270f;    
+    --colorAccentOrange900: #541e0c;    
+    --colorAccentViolet50: #f2ebfd;    
+    --colorAccentViolet100: #e0d0fb;    
+    --colorAccentViolet200: #c7aaf7;    
+    --colorAccentViolet300: #ac83f4;    
+    --colorAccentViolet400: #945df0;    
+    --colorAccentViolet500: #7c3aed;    
+    --colorAccentViolet600: #6931c9;    
+    --colorAccentViolet700: #5829a8;    
+    --colorAccentViolet800: #472187;    
+    --colorAccentViolet900: #381a6b;    
+    --colorAccentCyan50: #edfdff;    
+    --colorAccentCyan100: #def8fc;    
+    --colorAccentCyan200: #baf1fa;    
+    --colorAccentCyan300: #22d3ee;    
+    --colorAccentCyan400: #1fbed6;    
+    --colorAccentCyan500: #1ba9be;    
+    --colorAccentCyan600: #1a9eb3;    
+    --colorAccentCyan700: #147f8f;    
+    --colorAccentCyan800: #0f5f6b;    
+    --colorAccentCyan900: #0c4a53;    
+}
