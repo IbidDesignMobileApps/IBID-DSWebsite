@@ -1,0 +1,170 @@
+@tailwind utilities;
+
+@layer utilities {
+   
+  .typography-display-large {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-display-medium {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 69px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-display-small {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-headline-large {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-headline-medium {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-headline-small {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-title-large {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-title-medium {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-title-small {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-body-large {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-body-medium {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-body-small {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-label-large {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-label-medium {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-label-small {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+
+}
