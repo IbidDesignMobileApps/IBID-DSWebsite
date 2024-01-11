@@ -1,0 +1,19 @@
+
+:root {
+    --shadow-ibid-shadow-card: 0 1px 8px 0 rgba(0,0,0,0.12);   
+
+    --shadow-ibid-shadow-button: inset 0 0 8px 0 rgba(0,0,0,0.16);   
+
+    --shadow-ibid-shadow-bottom-bar: 0 -12px 3px 0 rgb(0,0,0);   
+
+    --shadow-ibid-shadow-top-bar: 0 12px 3px 0 rgb(0,0,0);   
+
+    --shadow-shadows-topbar: 0 -2px 4px -2px rgba(16,24,40,0.1);   
+
+    --shadow-shadows-card: 0 1px 8px 0 rgba(16,24,40,0.1);   
+
+    --shadow-shadows-navbar: 0 2px 4px -2px rgba(16,24,40,0.1);   
+
+    --shadow-shadows-button: 0 4px 6px -4px rgba(16,24,40,0.1);   
+
+}
