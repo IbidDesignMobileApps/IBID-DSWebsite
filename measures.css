@@ -12,7 +12,6 @@
     --measure-line-height-line-height-lineheights-9: 20px;     
     --measure-line-height-line-height-lineheights-10: 18px;     
     --measure-line-height-line-height-lineheights-11: 16px;     
-    --measure-line-height-line-height-lineheights-12: 17px;     
     --measure-font-size-font-size-fontsize-0: 10px;     
     --measure-font-size-font-size-fontsize-1: 12px;     
     --measure-font-size-font-size-fontsize-2: 14px;     
@@ -25,16 +24,21 @@
     --measure-font-size-font-size-fontsize-9: 36px;     
     --measure-font-size-font-size-fontsize-10: 40px;     
     --measure-font-size-font-size-fontsize-11: 44px;     
-    --measure-letter-spacing-letter-spacing-letterspacing-0: -2%;     
-    --measure-paragraph-spacing-paragraph-spacing-paragraphspacing-0: 0px;     
-    --measure-dimension-dimension-paragraphindent-0: 0px;     
-    --measure-space-spacing-4: 4px;     
-    --measure-space-spacing-8: 8px;     
-    --measure-space-spacing-16: 16px;     
-    --measure-space-spacing-24: 24px;     
-    --measure-space-spacing-32: 32px;     
     --measure-font-size-font-size-fontsize-12: 52px;     
+    --measure-letter-spacing-letter-spacing-letterspacing-0: -2%;     
     --measure-letter-spacing-letter-spacing-letterspacing-1: 0%;     
     --measure-letter-spacing-letter-spacing-letterspacing-2: 1px;     
+    --measure-paragraph-spacing-paragraph-spacing-paragraphspacing-0: 0px;     
     --measure-paragraph-spacing-paragraph-spacing-paragraphspacing-1: 60px;     
+    --measure-dimension-dimension-paragraphindent-0: 0px;     
+    --measure-space-spacing-spacing-4px: 4px;     
+    --measure-space-spacing-spacing-8px: 8px;     
+    --measure-space-spacing-spacing-12px: 12px;     
+    --measure-space-spacing-spacing-16px: 16px;     
+    --measure-space-spacing-spacing-20px: 20px;     
+    --measure-space-spacing-spacing-24px: 24px;     
+    --measure-space-spacing-spacing-28px: 28px;     
+    --measure-space-spacing-spacing-32px: 32px;     
+    --measure-space-spacing-spacing-40px: 40px;     
+    --measure-space-spacing-spacing-48px: 48px;     
 }
